@@ -3,21 +3,18 @@
 I’m a **Founding Engineer @ ContraVault AI**, focused on building **scalable backend systems**,  
 **real-time applications**, and **cloud-native products** that actually ship and scale.
 
----
 
 ## 🔭 Currently Working On
 
-- 🎮 **Multiplayer Contexto Game**  
+- 🎮 **Multiplayer Contexto Game (Personal Project)**  
   A real-time competitive word-guessing game built using  
   **Next.js, TypeScript, Tailwind CSS**, and **AWS AppSync (GraphQL Subscriptions)** for live multiplayer sync,  
   with **DynamoDB** powering low-latency state management, matchmaking, and game sessions.
 
 - 🚀 **ContraVault AI (Founding Engineer)**  
   Designing and scaling backend systems with a strong focus on **performance, correctness, and reliability**.  
-  Key work includes **Attribute-Based Access Control (ABAC)**, **server-side caching**,  
+  Key work includes **Software Versioning**, **Attribute-Based Access Control (ABAC)**, **server-side caching**,  
   **SSE streaming**, and **AWS-native architectures** using **ECS, Lambda, Step Functions**, and more.
-
----
 
 ## 👯 Open to Collaborating On
 
@@ -26,24 +23,13 @@ I’m a **Founding Engineer @ ContraVault AI**, focused on building **scalable b
 - 🤖 **AI-powered developer tools & productivity platforms**  
 - 🧩 **Scalable full-stack applications** using Next.js with strong backend design
 
----
-
-## 🤝 Interested In Exploring
-
-- 🎯 **Game balancing & ranking algorithms** for multiplayer systems  
-- 💰 **Cost-efficient real-time architectures** at scale on AWS  
-- 🛡️ **Fairness, validation, and anti-cheat logic** in multiplayer environments
-
----
-
 ## 🌱 Currently Learning
 
-- 🧠 **Distributed systems patterns** (event-driven design, CQRS-lite)  
+- 🧠 **Distributed systems patterns** (event-driven design)  
 - 📡 **AWS AppSync internals & performance tuning**  
 - 🏗️ **System design for real-time & AI-driven products**  
 - 🔍 **PostgreSQL + vector embeddings** for similarity search and retrieval systems
 
----
 
 ## 💬 Ask Me About
 
@@ -54,8 +40,6 @@ I’m a **Founding Engineer @ ContraVault AI**, focused on building **scalable b
   (improved a production feature from **43% → 94% accuracy**)  
 - 🧠 **Founding engineer challenges** in early-stage startups
 
----
-
 ## ⚡ Fun Fact
 
 - I’ve built **production systems used by real companies** *before graduating* —  
@@ -65,10 +49,11 @@ I’m a **Founding Engineer @ ContraVault AI**, focused on building **scalable b
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitmaurya1219)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-maurya-9a13a222a/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohitmaurya1219)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitmaurya1219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-maurya-9a13a222a/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohitmaurya1219)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitmaurya78871@gmail.com)
+
 
 ---
 
